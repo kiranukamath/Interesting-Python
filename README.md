@@ -1,1 +1,1 @@
-This repo is put everything I learn about python
+This repo is to put everything I learn about python
