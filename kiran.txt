@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 kamath
-
-
-=======
 kk
->>>>>>> 70d214a87fa7f5cb7cb995bb3ac691cb6e0ab643
